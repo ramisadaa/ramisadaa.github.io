@@ -1,0 +1,488 @@
+[
+  {
+    "id": "001",
+    "category": "01-profile-hero",
+    "path": "assets/img/web-optimized/01-profile-hero/rami-faisal-abu-sadaa-profile-portrait.webp",
+    "alt": "Formal portrait of Rami Faisal Abu Sadaa.",
+    "suggested_use": "profile / about / hero portrait",
+    "privacy_status": "public",
+    "portfolio_section": "Professional Profile"
+  },
+  {
+    "id": "002",
+    "category": "01-profile-hero",
+    "path": "assets/img/web-optimized/01-profile-hero/community-leadership-gathering-hero.webp",
+    "alt": "Large community gathering illustrating field leadership and public engagement.",
+    "suggested_use": "hero background / leadership overview",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Leadership Experience"
+  },
+  {
+    "id": "003",
+    "category": "01-profile-hero",
+    "path": "assets/img/web-optimized/01-profile-hero/shelter-field-visit-hero.webp",
+    "alt": "Field walkthrough inside the shelter with operations leadership.",
+    "suggested_use": "hero feature / shelter section lead image",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Shelter Center Leadership"
+  },
+  {
+    "id": "004",
+    "category": "02-shelter-leadership",
+    "path": "assets/img/web-optimized/02-shelter-leadership/shelter-team-start-of-day.webp",
+    "alt": "Shelter team preparing for the working day.",
+    "suggested_use": "section gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Shelter Center Leadership"
+  },
+  {
+    "id": "005",
+    "category": "02-shelter-leadership",
+    "path": "assets/img/web-optimized/02-shelter-leadership/shelter-exterior-field-walkthrough.webp",
+    "alt": "Exterior field walkthrough reviewing shelter conditions.",
+    "suggested_use": "section gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Shelter Center Leadership"
+  },
+  {
+    "id": "006",
+    "category": "02-shelter-leadership",
+    "path": "assets/img/web-optimized/02-shelter-leadership/shelter-corridor-inspection.webp",
+    "alt": "Inspection of temporary shelter corridors and spaces.",
+    "suggested_use": "section gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Shelter Center Leadership"
+  },
+  {
+    "id": "007",
+    "category": "02-shelter-leadership",
+    "path": "assets/img/web-optimized/02-shelter-leadership/shelter-coordination-meeting.webp",
+    "alt": "Extended coordination meeting reviewing service gaps and response.",
+    "suggested_use": "section gallery / evidence card",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Shelter Center Leadership"
+  },
+  {
+    "id": "008",
+    "category": "02-shelter-leadership",
+    "path": "assets/img/web-optimized/02-shelter-leadership/shelter-child-psychosocial-drawing.webp",
+    "alt": "Psychosocial drawing activity for children in the shelter.",
+    "suggested_use": "human impact story",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Shelter Center Leadership"
+  },
+  {
+    "id": "009",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/temporary-learning-space-inside-shelter.webp",
+    "alt": "Temporary learning space for children inside the shelter environment.",
+    "suggested_use": "section lead image",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "010",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/students-learning-on-floor.webp",
+    "alt": "Students learning in a temporary space with limited resources.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "011",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/damaged-classroom-learning-view.webp",
+    "alt": "Learning inside a damaged room converted into a temporary classroom.",
+    "suggested_use": "section gallery / infrastructure evidence",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "012",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/students-seated-on-improvised-blocks.webp",
+    "alt": "Students seated on improvised blocks during a lesson.",
+    "suggested_use": "section gallery / scarcity evidence",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "013",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/teacher-leading-lesson-amid-destruction.webp",
+    "alt": "Teacher leading a lesson with an improvised board in a damaged setting.",
+    "suggested_use": "section feature image",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "014",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/psychosocial-child-engagement-activity.webp",
+    "alt": "Psychosocial engagement activity restoring routine and belonging.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "015",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/outdoor-recreational-activity.webp",
+    "alt": "Group recreational activity in the educational center yard.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "016",
+    "category": "03-emergency-education",
+    "path": "assets/img/web-optimized/03-emergency-education/education-team-resilience-message.webp",
+    "alt": "Educational center team sharing messages of resilience and commitment.",
+    "suggested_use": "team leadership / impact",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Educational Center Leadership"
+  },
+  {
+    "id": "017",
+    "category": "04-ahlam-project",
+    "path": "assets/img/web-optimized/04-ahlam-project/ahlam-project-university-presentation.webp",
+    "alt": "Ahlam Project presentation at the Islamic University of Gaza.",
+    "suggested_use": "section lead image",
+    "privacy_status": "public",
+    "portfolio_section": "Ahlam Project Leadership"
+  },
+  {
+    "id": "018",
+    "category": "04-ahlam-project",
+    "path": "assets/img/web-optimized/04-ahlam-project/ahlam-leadership-training-session.webp",
+    "alt": "Youth leadership training session in the Ahlam Project.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Ahlam Project Leadership"
+  },
+  {
+    "id": "019",
+    "category": "04-ahlam-project",
+    "path": "assets/img/web-optimized/04-ahlam-project/ahlam-participatory-leadership-exercise.webp",
+    "alt": "Participatory leadership exercise focused on confidence and teamwork.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Ahlam Project Leadership"
+  },
+  {
+    "id": "020",
+    "category": "04-ahlam-project",
+    "path": "assets/img/web-optimized/04-ahlam-project/ahlam-youth-dialogue-circle.webp",
+    "alt": "Youth-led dialogue circle developing expression and listening skills.",
+    "suggested_use": "project outputs gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Ahlam Project Leadership"
+  },
+  {
+    "id": "021",
+    "category": "04-ahlam-project",
+    "path": "assets/img/web-optimized/04-ahlam-project/ahlam-youth-audio-production.webp",
+    "alt": "Young participant creating an audio production to build communication skills.",
+    "suggested_use": "project outputs gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Ahlam Project Leadership"
+  },
+  {
+    "id": "022",
+    "category": "04-ahlam-project",
+    "path": "assets/img/web-optimized/04-ahlam-project/ahlam-community-field-interview.webp",
+    "alt": "Community field interview task led by young participants.",
+    "suggested_use": "project outputs gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Ahlam Project Leadership"
+  },
+  {
+    "id": "023",
+    "category": "05-summer-games",
+    "path": "assets/img/web-optimized/05-summer-games/summer-games-central-activity.webp",
+    "alt": "Large central activity during UNRWA Summer Games.",
+    "suggested_use": "section lead image",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Summer Games Leadership"
+  },
+  {
+    "id": "024",
+    "category": "05-summer-games",
+    "path": "assets/img/web-optimized/05-summer-games/summer-games-stage-facilitation.webp",
+    "alt": "Stage facilitation and direct engagement with children.",
+    "suggested_use": "leadership stations gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Summer Games Leadership"
+  },
+  {
+    "id": "025",
+    "category": "05-summer-games",
+    "path": "assets/img/web-optimized/05-summer-games/summer-games-team-and-partners.webp",
+    "alt": "Group photo with the Summer Games team and partners.",
+    "suggested_use": "section gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Summer Games Leadership"
+  },
+  {
+    "id": "026",
+    "category": "05-summer-games",
+    "path": "assets/img/web-optimized/05-summer-games/summer-games-child-engagement.webp",
+    "alt": "Group engagement with children in a recreational learning activity.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Summer Games Leadership"
+  },
+  {
+    "id": "027",
+    "category": "05-summer-games",
+    "path": "assets/img/web-optimized/05-summer-games/summer-games-community-interaction.webp",
+    "alt": "Direct field interaction demonstrating leadership presence among participants.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Summer Games Leadership"
+  },
+  {
+    "id": "028",
+    "category": "05-summer-games",
+    "path": "assets/img/web-optimized/05-summer-games/hikaya-cultural-performance-team.webp",
+    "alt": "Hikaya cultural performance team combining identity, participation, and creativity.",
+    "suggested_use": "Hikaya feature image",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Summer Games Leadership"
+  },
+  {
+    "id": "029",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/school-teaching-learning-follow-up.webp",
+    "alt": "Direct classroom follow-up of teaching and learning.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "030",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/student-behavior-guidance.webp",
+    "alt": "Student behavior guidance and positive discipline support.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "031",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/leadership-for-the-future-programme.webp",
+    "alt": "Participation in the Leadership for the Future programme.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "032",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/supporting-vulnerable-student.webp",
+    "alt": "Supporting a vulnerable student within the school.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "033",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/school-greening-environment-initiative.webp",
+    "alt": "School greening and environmental improvement initiative.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "034",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/school-team-coordination-meeting.webp",
+    "alt": "School team coordination meeting for planning and follow-up.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "035",
+    "category": "06-school-leadership",
+    "path": "assets/img/web-optimized/06-school-leadership/student-recognition-ceremony.webp",
+    "alt": "Recognition ceremony honoring distinguished students.",
+    "suggested_use": "school leadership card",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Deputy School Principal Leadership"
+  },
+  {
+    "id": "036",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-challenge-school-leadership.webp",
+    "alt": "Leading the Arab Reading Challenge initiative at school.",
+    "suggested_use": "section lead image",
+    "privacy_status": "public",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "037",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-dialogue-circle.webp",
+    "alt": "Group reading and dialogue session during the challenge.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "038",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-challenge-team-building-activity.webp",
+    "alt": "Interactive team-building activity supporting participation and teamwork.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "039",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-campaign-student-group.webp",
+    "alt": "Student group carrying the reading campaign message.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "040",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-challenge-school-community.webp",
+    "alt": "School community during a large reading promotion event.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "041",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-challenge-student-presentation.webp",
+    "alt": "Student group presentation during the reading challenge.",
+    "suggested_use": "section gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "042",
+    "category": "07-arab-reading-challenge",
+    "path": "assets/img/web-optimized/07-arab-reading-challenge/reading-challenge-achievement-recognition.webp",
+    "alt": "Achievement and recognition moment linked to the reading initiative.",
+    "suggested_use": "impact / recognition",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Arab Reading Challenge Leadership"
+  },
+  {
+    "id": "043",
+    "category": "08-community-impact",
+    "path": "assets/img/web-optimized/08-community-impact/community-support-children-event.webp",
+    "alt": "Community support event for children and families.",
+    "suggested_use": "community impact gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Community Leadership"
+  },
+  {
+    "id": "044",
+    "category": "08-community-impact",
+    "path": "assets/img/web-optimized/08-community-impact/community-awareness-team-event.webp",
+    "alt": "Initiative team and participants at a large community awareness event.",
+    "suggested_use": "community impact gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Community Leadership"
+  },
+  {
+    "id": "045",
+    "category": "08-community-impact",
+    "path": "assets/img/web-optimized/08-community-impact/community-initiative-leadership-moment.webp",
+    "alt": "Field leadership moment during a child support activity.",
+    "suggested_use": "community impact gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Community Leadership"
+  },
+  {
+    "id": "046",
+    "category": "09-leadership-development",
+    "path": "assets/img/web-optimized/09-leadership-development/leadership-training-workshop.webp",
+    "alt": "Participatory leadership training workshop.",
+    "suggested_use": "leadership development gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Leadership Experience"
+  },
+  {
+    "id": "047",
+    "category": "09-leadership-development",
+    "path": "assets/img/web-optimized/09-leadership-development/leadership-programme-coordination.webp",
+    "alt": "Coordination and follow-up for the Leadership for the Future programme.",
+    "suggested_use": "leadership development gallery",
+    "privacy_status": "public",
+    "portfolio_section": "Leadership Experience"
+  },
+  {
+    "id": "048",
+    "category": "09-leadership-development",
+    "path": "assets/img/web-optimized/09-leadership-development/strategic-team-planning-session.webp",
+    "alt": "Strategic team planning and problem-solving session.",
+    "suggested_use": "leadership development gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Leadership Experience"
+  },
+  {
+    "id": "049",
+    "category": "10-recognition-activities",
+    "path": "assets/img/web-optimized/10-recognition-activities/teacher-with-students-class-recognition.webp",
+    "alt": "Recognition moment with students in the classroom.",
+    "suggested_use": "recognition gallery",
+    "privacy_status": "child-consent-required",
+    "portfolio_section": "Additional Recognition and Activities"
+  },
+  {
+    "id": "050",
+    "category": "10-recognition-activities",
+    "path": "assets/img/web-optimized/10-recognition-activities/education-leaders-group.webp",
+    "alt": "Group photo with education leaders during an educational event.",
+    "suggested_use": "recognition gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Additional Recognition and Activities"
+  },
+  {
+    "id": "051",
+    "category": "10-recognition-activities",
+    "path": "assets/img/web-optimized/10-recognition-activities/leadership-recognition-award.webp",
+    "alt": "Recognition award for leadership and educational contribution.",
+    "suggested_use": "recognition gallery",
+    "privacy_status": "public",
+    "portfolio_section": "Additional Recognition and Activities"
+  },
+  {
+    "id": "052",
+    "category": "10-recognition-activities",
+    "path": "assets/img/web-optimized/10-recognition-activities/community-recognition-ceremony.webp",
+    "alt": "Participation in a community and educational recognition ceremony.",
+    "suggested_use": "recognition gallery",
+    "privacy_status": "consent-review",
+    "portfolio_section": "Additional Recognition and Activities"
+  },
+  {
+    "id": "053",
+    "category": "11-academic-digital",
+    "path": "assets/img/web-optimized/11-academic-digital/masters-degree-excellence-certificate.webp",
+    "alt": "Academic document showing the master’s degree achievement.",
+    "suggested_use": "academic evidence card",
+    "privacy_status": "document-review",
+    "portfolio_section": "Academic Leadership Development"
+  },
+  {
+    "id": "054",
+    "category": "11-academic-digital",
+    "path": "assets/img/web-optimized/11-academic-digital/digital-education-during-covid-school.webp",
+    "alt": "Field presence at school during COVID-19 digital education.",
+    "suggested_use": "digital education evidence",
+    "privacy_status": "public",
+    "portfolio_section": "Digital Education Leadership"
+  }
+]
